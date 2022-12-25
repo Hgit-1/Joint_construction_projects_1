@@ -7,7 +7,7 @@ just some programmer's code-construction place [:)]
   3:14雷霆18941431400
   4:Cedric 姚
   5:曹诗悦
-  6:陶志宇
+  6:朱可依
   7:文文
   8:倪彧琛 
   9:寇予轩
